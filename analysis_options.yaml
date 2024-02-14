@@ -1,0 +1,7 @@
+
+include: package:lints/core.yaml
+
+linter:
+ 
+  rules:
+   
